@@ -1,0 +1,42 @@
+class Solution {
+public:
+    string gcdOfStrings(string str1, string str2) {
+        int length1 = str1.size();
+        int length2 = str2.size();
+        string letter1="";
+        string letter2="";
+        string letter3="";
+        int GCD;
+        int max_num;
+        if (length1>length2){
+            max_num = length1;
+        }
+        else{
+            max_num = length2;
+        }
+        int i = 0;
+        while (i < max_num){
+            i +=1;
+            if (length1 % i  == 0 && length2 % i ==0){
+                GCD = i;
+            }
+        }
+        int n1 = length1 / GCD;
+        int n2 = length2 / GCD;
+        for (int i = 0 ; i < GCD ; i++){
+            letter1 += str1[i];
+        }
+        for (int i = 0 ; i < n1 ; i++){
+            letter2 +=letter1;
+        }
+        for (int i = 0 ; i < n2 ; i++){
+            letter3 +=letter1;
+        }
+        string output ="";
+        if (letter2 == str1 && letter3 == str2){
+            output +=letter1;
+        }
+        return output;
+ 
+    }
+};
