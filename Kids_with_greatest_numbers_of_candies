@@ -1,0 +1,45 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+class Solution {
+public:
+    vector<bool> kidsWithCandies(vector<int>& candies, int extraCandies) {
+        if (extraCandies < 1){
+            extraCandies = 1;
+        }
+        else if (extraCandies > 50)
+        {
+            extraCandies = 50;
+        }
+        else{
+            cout << "Enter the valid number of extra candy number"<<endl;
+        }
+        int max_num = 0;
+        for (int i : candies){
+            if (i > max_num){
+                max_num = i;
+            }
+        }
+        vector <bool> temp_arr;
+        for (int i : candies){
+            if (i + extraCandies > max_num  || i + extraCandies == max_num){
+                temp_arr.push_back(true);
+            }
+            else{
+                temp_arr.push_back(false);
+            }
+        }
+        return temp_arr;
+    }
+};
+int main(){
+    vector <int> candies = {4,3,5,6,7,8};
+    int numbers;
+    cout << "Enter the number of candies: "<<endl;
+    cin >> numbers;
+    Solution s;
+    vector<bool> result = s.kidsWithCandies(candies , numbers);
+    for (int candy : result) {
+        cout << candy << " ";
+    }
+}
