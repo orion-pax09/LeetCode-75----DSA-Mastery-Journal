@@ -13,7 +13,7 @@
 
 ## Progress Tracker
 
-**Completed:** **4 / 75** 
+**Completed:** **5 / 75** 
 
 ### Array / String
 
@@ -21,7 +21,7 @@
 * ✅ Greatest Common Divisor of Strings
 * ✅ Kids With the Greatest Number of Candies
 * ✅ Can Place Flowers
-* ⬜ Reverse Vowels of a String
+* ✅ Reverse Vowels of a String
 * ⬜ Reverse Words in a String
 * ⬜ Product of Array Except Self
 * ⬜ Increasing Triplet Subsequence
