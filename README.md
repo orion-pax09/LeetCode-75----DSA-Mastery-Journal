@@ -13,14 +13,14 @@
 
 ## Progress Tracker
 
-**Completed:** **2 / 75** 
+**Completed:** **4 / 75** 
 
 ### Array / String
 
 * ✅ Merge Strings Alternately
 * ✅ Greatest Common Divisor of Strings
 * ✅ Kids With the Greatest Number of Candies
-* ⬜ Can Place Flowers
+* ✅ Can Place Flowers
 * ⬜ Reverse Vowels of a String
 * ⬜ Reverse Words in a String
 * ⬜ Product of Array Except Self
