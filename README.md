@@ -23,7 +23,7 @@
 * ✅ Can Place Flowers
 * ✅ Reverse Vowels of a String
 * ✅ Reverse Words in a String
-* ⬜ Product of Array Except Self
+* ✅Product of Array Except Self
 * ⬜ Increasing Triplet Subsequence
 * ⬜ String Compression
 
