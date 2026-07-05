@@ -13,7 +13,7 @@
 
 ## Progress Tracker
 
-**Completed:** **5 / 75** 
+**Completed:** ** 7 / 75** 
 
 ### Array / String
 
