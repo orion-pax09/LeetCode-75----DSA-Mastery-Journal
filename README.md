@@ -13,7 +13,7 @@
 
 ## Progress Tracker
 
-**Completed:** ** 7 / 75** 
+**Completed:** ** 11 / 75** 
 
 ### Array / String
 
@@ -65,9 +65,9 @@
 
 ### Linked List
 
-* ⬜ Delete the Middle Node of a Linked List
+* ✅ Delete the Middle Node of a Linked List
 * ⬜ Odd Even Linked List
-* ⬜ Reverse Linked List
+* ✅ Reverse Linked List
 * ⬜ Maximum Twin Sum of a Linked List
 
 ### Binary Tree — DFS
