@@ -25,7 +25,7 @@
 * ✅ Reverse Words in a String
 * ✅Product of Array Except Self
 * ✅Increasing Triplet Subsequence
-* ⬜ String Compression
+* ✅String Compression
 
 ### Two Pointers
 
