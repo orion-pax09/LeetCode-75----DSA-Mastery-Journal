@@ -68,7 +68,7 @@
 * ✅ Delete the Middle Node of a Linked List
 * ✅ Odd Even Linked List
 * ✅ Reverse Linked List
-* ⬜ Maximum Twin Sum of a Linked List
+* ✅ Maximum Twin Sum of a Linked List
 
 ### Binary Tree — DFS
 
