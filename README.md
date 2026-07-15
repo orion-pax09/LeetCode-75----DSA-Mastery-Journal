@@ -60,7 +60,7 @@
 
 ### Queue
 
-* ⬜ Number of Recent Calls
+* ✅ Number of Recent Calls
 * ⬜ Dota2 Senate
 
 ### Linked List
