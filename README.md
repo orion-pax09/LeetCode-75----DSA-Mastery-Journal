@@ -13,7 +13,7 @@
 
 ## Progress Tracker
 
-**Completed:** ** 14 / 75** 
+**Completed:** ** 15 / 75** 
 
 ### Array / String
 
@@ -61,7 +61,7 @@
 ### Queue
 
 * ✅ Number of Recent Calls
-* ⬜ Dota2 Senate
+* ✅ Dota2 Senate
 
 ### Linked List
 
