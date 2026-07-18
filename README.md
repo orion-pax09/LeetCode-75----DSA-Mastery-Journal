@@ -13,7 +13,7 @@
 
 ## Progress Tracker
 
-**Completed:** ** 16 / 75** 
+**Completed:** ** 17 / 75** 
 
 ### Array / String
 
@@ -55,7 +55,7 @@
 ### Stack
 
 * ⬜ Removing Stars From a String
-* ⬜ Asteroid Collision
+* ✅Asteroid Collision
 * ✅ Decode String
 
 ### Queue
