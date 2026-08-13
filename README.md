@@ -47,7 +47,7 @@
 
 ### Hash Map / Set
 
-* ⬜ Find the Difference of Two Arrays
+* ✅ Find the Difference of Two Arrays
 * ⬜ Unique Number of Occurrences
 * ⬜ Determine if Two Strings Are Close
 * ⬜ Equal Row and Column Pairs
