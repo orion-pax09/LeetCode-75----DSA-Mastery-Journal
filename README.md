@@ -13,7 +13,7 @@
 
 ## Progress Tracker
 
-**Completed:** ** 21 / 75** 
+**Completed:** ** 23 / 75** 
 
 ### Array / String
 
@@ -153,7 +153,7 @@
 ### Monotonic Stack
 
 * ✅ Daily Temperatures
-* ⬜ Online Stock Span
+* ✅ Online Stock Span
 
 ## 🛠️ Languages & Tools
 
