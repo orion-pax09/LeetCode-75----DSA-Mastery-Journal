@@ -30,7 +30,7 @@
 ### Two Pointers
 
 * ⬜ Move Zeroes
-* ⬜ Is Subsequence
+* ✅ Is Subsequence
 * ⬜ Container With Most Water
 * ⬜ Max Number of K-Sum Pairs
 
