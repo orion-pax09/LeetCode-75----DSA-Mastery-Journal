@@ -13,7 +13,7 @@
 
 ## Progress Tracker
 
-**Completed:** ** 20 / 75** 
+**Completed:** ** 21 / 75** 
 
 ### Array / String
 
@@ -48,7 +48,7 @@
 ### Hash Map / Set
 
 * ✅ Find the Difference of Two Arrays
-* ⬜ Unique Number of Occurrences
+* ✅Unique Number of Occurrences
 * ⬜ Determine if Two Strings Are Close
 * ⬜ Equal Row and Column Pairs
 
