@@ -152,7 +152,7 @@
 
 ### Monotonic Stack
 
-* ⬜ Daily Temperatures
+* ✅ Daily Temperatures
 * ⬜ Online Stock Span
 
 ## 🛠️ Languages & Tools
