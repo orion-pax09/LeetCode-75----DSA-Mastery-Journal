@@ -13,7 +13,7 @@
 
 ## Progress Tracker
 
-**Completed:** ** 23 / 75** 
+**Completed:** ** 24 / 75** 
 
 ### Array / String
 
@@ -29,7 +29,7 @@
 
 ### Two Pointers
 
-* ⬜ Move Zeroes
+* ✅ Move Zeroes
 * ✅ Is Subsequence
 * ⬜ Container With Most Water
 * ⬜ Max Number of K-Sum Pairs
@@ -50,7 +50,7 @@
 * ✅ Find the Difference of Two Arrays
 * ✅Unique Number of Occurrences
 * ✅ Determine if Two Strings Are Close
-* ⬜ Equal Row and Column Pairs
+* ✅ Equal Row and Column Pairs
 
 ### Stack
 
