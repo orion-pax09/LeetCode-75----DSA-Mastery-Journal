@@ -13,7 +13,7 @@
 
 ## Progress Tracker
 
-**Completed:** ** 30 / 75** 
+**Completed:** ** 31 / 75** 
 
 ### Array / String
 
@@ -38,7 +38,7 @@
 
 * ✅ Maximum Average Subarray I
 * ✅ Maximum Number of Vowels in a Substring
-* ⬜ Max Consecutive Ones III
+* ✅ Max Consecutive Ones III
 * ⬜ Longest Subarray of 1s After Deleting One Element
 ### Prefix Sum
 
