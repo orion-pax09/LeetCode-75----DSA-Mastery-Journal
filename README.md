@@ -39,7 +39,7 @@
 * ✅ Maximum Average Subarray I
 * ✅ Maximum Number of Vowels in a Substring
 * ✅ Max Consecutive Ones III
-* ⬜ Longest Subarray of 1s After Deleting One Element
+* ✅ Longest Subarray of 1s After Deleting One Element
 ### Prefix Sum
 
 * ⬜ Find the Highest Altitude
