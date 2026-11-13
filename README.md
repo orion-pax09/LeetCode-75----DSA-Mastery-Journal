@@ -13,7 +13,7 @@
 
 ## Progress Tracker
 
-**Completed:** ** 31 / 75** 
+**Completed:** ** 35 / 75** 
 
 ### Array / String
 
@@ -92,18 +92,18 @@
 ### Graphs — DFS
 
 * ⬜ Keys and Rooms
-* ⬜ Number of Provinces
+* ✅ Number of Provinces
 * ⬜ Reorder Routes to Make All Paths Lead to City Zero
 * ⬜ Evaluate Division
 
 ### Graphs — BFS
 
 * ⬜ Nearest Exit from Entrance in Maze
-* ⬜ Rotting Oranges
+* ✅ Rotting Oranges
 
 ### Heap / Priority Queue
 
-* ⬜ Kth Largest Element in an Array
+* ✅ Kth Largest Element in an Array
 * ⬜ Smallest Number in Infinite Set
 * ⬜ Maximum Subsequence Score
 * ⬜ Total Cost to Hire K Workers
